@@ -13,6 +13,7 @@ docker logout localhost:8080                                  // Выход из
 
 Поиск образа
 
+
 docker search nginx
 docker search nginx -- filter stars=3 --no-trunc busybox
 
