@@ -1,5 +1,6 @@
 Установка
 
+
 curl -sSL https://get.docker.com/ | sh                        // Linux
 https://download.docker.com/mac/stable/Docker.dmg             // Mac Скачайте dmg по этой ссылке
 https://download.docker.com/win/stable/InstallDocker.msi      // Windows Используйте MSI-инсталлятор
